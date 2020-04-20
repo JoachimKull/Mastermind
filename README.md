@@ -17,8 +17,8 @@
 
 E.G.:
 
-Computers combination is: Green (1), Green (1), Green (1), Blue (2), Green (1), Green (1), Green (1), Green (1)
+Computers combination is: Green (1), Green (1), Green (1), Blue (2)
 
-Players guess is: Blue (2), Blue (2), Blue (2), Blue (2), Blue (2), Blue (2), Blue (2), Blue (2)
+Players guess is: Blue (2), Blue (2), Blue (2), Blue (2)
 
-Output will be: `# # # * # # # #`
+Output will be: `# # # * `
